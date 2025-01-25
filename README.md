@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ML, Data Analytics, and Web Development.
 
 ### Tools
-#### Notion <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion Logo" width="50" height="50">
+#### <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion Logo" width="50" height="50">
 - Project Tracker for software engineering course about the development life cycle: [Software Engineering Management](https://plum-caraway-dfe.notion.site/Software-Engineering-Management-185023bfc9f280a6b2c2e390edcd84a1)
