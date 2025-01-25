@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/micah-billington/)
 - ⚡ Fun fact: I love coffee, am a novice snowboarder, and am a complete history nerd.
 - 🤔 I’m looking for help with book recommendations, project ideas, and any feedback whatsoever!
-- 👯 I’m looking to collaborate on ML, Data Analytics, Web Development.
+- 👯 I’m looking to collaborate on ML, Data Analytics, and Web Development.
