@@ -27,4 +27,5 @@
   
 ### Bonus
 - Great podcast on design I have been enjoying! [Dive Club](https://www.youtube.com/@joindiveclub/featured)
+- My last read on the history of chips, innovation, and geopolitics. [Chip War](https://en.wikipedia.org/wiki/Chip_War:_The_Fight_for_the_World%27s_Most_Critical_Technology)
 
