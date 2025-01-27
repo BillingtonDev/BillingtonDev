@@ -8,7 +8,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/micah-billington/)
 - ⚡ Fun facts: I love coffee, am a novice snowboarder, and am a complete history nerd.
 - 🤔 I’m looking for help with book recommendations, project ideas, and any feedback whatsoever!
-- 👯 I’m looking to collaborate on ML, Data Analytics, and Web Development  https://upload.wikimedia.org/wikipedia/commons/b/ba/Javascript_badge.svg
+- 👯 I’m looking to collaborate on ML, Data Analytics, and Web Development 
 <div>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Python-logo.png" alt="Python Logo" width="50" height="50">
 <img style="float: right;" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Rlogo.png" alt="RStudio Logo" width="50" height="50">
