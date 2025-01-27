@@ -22,8 +22,11 @@
 </div>
 
 ### Other Tools
-#### [<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion Logo" width="50" height="50">](https://plum-caraway-dfe.notion.site/Software-Engineering-Management-185023bfc9f280a6b2c2e390edcd84a1)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion Logo" width="50" height="50">](https://plum-caraway-dfe.notion.site/Software-Engineering-Management-185023bfc9f280a6b2c2e390edcd84a1)
 - Project Tracker for software engineering course about the development life cycle: [Software Engineering Management](https://plum-caraway-dfe.notion.site/Software-Engineering-Management-185023bfc9f280a6b2c2e390edcd84a1)
+  
+[<img src="https://e7.pngegg.com/pngimages/625/214/png-clipart-lucidchart-logo-thumbnail-tech-companies-thumbnail.png" alt="Lucidchart Logo" width="50" height="50">](https://www.lucidchart.com/)
+- Created UML and ER diagrams for database design and software engineering on Lucidchart.
   
 ### Bonus
 - Great podcast on design I have been enjoying! [Dive Club](https://www.youtube.com/@joindiveclub/featured)
