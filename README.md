@@ -25,7 +25,7 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion Logo" width="50" height="50">](https://plum-caraway-dfe.notion.site/Software-Engineering-Management-185023bfc9f280a6b2c2e390edcd84a1)
 - Project Tracker for software engineering course about the development life cycle: [Software Engineering Management](https://plum-caraway-dfe.notion.site/Software-Engineering-Management-185023bfc9f280a6b2c2e390edcd84a1)
   
-[<img src="https://e7.pngegg.com/pngimages/625/214/png-clipart-lucidchart-logo-thumbnail-tech-companies-thumbnail.png" alt="Lucidchart Logo" width="50" height="50">](https://www.lucidchart.com/)
+[<img src="https://store-images.s-microsoft.com/image/apps.21470.0d68eb0c-3794-4e04-bc3c-5ba740505a6b.aab178a6-9723-4bed-928b-5960ab04b7c1.cf9efa9f-8b1b-4da5-8ff5-557856986e2f.png" alt="Lucidchart Logo" width="50" height="50">](https://www.lucidchart.com/)
 - Created UML and ER diagrams for database design and software engineering on Lucidchart.
   
 ### Bonus
