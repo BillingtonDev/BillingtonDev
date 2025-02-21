@@ -22,6 +22,9 @@
 <img style="float: right;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s" alt="HTML" width="50" height="50">
 </div>
 
+### Public Repos
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=billingtondev&layout=compact)
+
 ### Other Tools
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion Logo" width="50" height="50">](https://plum-caraway-dfe.notion.site/Software-Engineering-Management-185023bfc9f280a6b2c2e390edcd84a1)
 - Project Tracker for software engineering course about the development life cycle: [Software Engineering Management](https://plum-caraway-dfe.notion.site/Software-Engineering-Management-185023bfc9f280a6b2c2e390edcd84a1)
