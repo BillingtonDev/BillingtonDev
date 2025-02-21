@@ -28,8 +28,10 @@
   
 [<img src="https://store-images.s-microsoft.com/image/apps.21470.0d68eb0c-3794-4e04-bc3c-5ba740505a6b.aab178a6-9723-4bed-928b-5960ab04b7c1.cf9efa9f-8b1b-4da5-8ff5-557856986e2f.png" alt="Lucidchart Logo" width="50" height="50">](https://www.lucidchart.com/)
 - Created UML and ER diagrams for database design and software engineering on Lucidchart.
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31mbvd4pbxeq6pf37jb7mqszrata&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false&bar_color=ffffff)](https://github.com/kittinan/spotify-github-profile)
+  
 ### Bonus
 - Great podcast on design I have been enjoying! [Dive Club](https://www.youtube.com/@joindiveclub/featured)
 - My last read on the history of chips, innovation, and geopolitics. [Chip War](https://en.wikipedia.org/wiki/Chip_War:_The_Fight_for_the_World%27s_Most_Critical_Technology)
 
+### What I'm Listening To
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31mbvd4pbxeq6pf37jb7mqszrata&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false&bar_color=ffffff)](https://github.com/kittinan/spotify-github-profile)
