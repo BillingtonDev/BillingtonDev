@@ -20,6 +20,7 @@
 <img style="float: right;" src="https://upload.wikimedia.org/wikipedia/commons/d/d8/C_Language_Logo.svg" alt="C" width="50" height="50">
 <img style="float: right;" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" alt="Javascript" width="50" height="50">
 <img style="float: right;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s" alt="HTML" width="50" height="50">
+<img style="float: right;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" alt = "TypeScript" widht = "50" height="50">
 </div>
 
 ### Public Repos
