@@ -3,8 +3,8 @@
 <!--
 **BillingtonDev/BillingtonDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 -->
-- 🔭 I’m currently working on a personal website, ML project on car data from the Statistics Canada, and a couple of other things which will be coming down the line.
-- 🌱 I’m currently learning C#, Javascript, expanding in ScikitLearn, and Snowflake.
+- 🔭 I’m currently working on a personal website, agentic AI applications, and a couple of other things which will be coming down the line.
+- 🌱 I’m currently exploring Docker, Hadoop, Spark, Monte Carlo Simulations, and everything Big Data.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/micah-billington/) OR [Personal Website](https://www.micahbillington.com/)
 - ⚡ Fun facts: I love coffee, am a novice snowboarder, and am a complete history nerd.
 - 🤔 I’m looking for help with book recommendations, project ideas, and any feedback whatsoever!
