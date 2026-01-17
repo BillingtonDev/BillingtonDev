@@ -22,9 +22,6 @@
 <img style="float: right;" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/snowflake-color.png" alt="Snowflake" width="50" height="50">
 </div>
 
-### Public Repos
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=billingtondev&layout=compact)
-
 ### Other Tools
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion Logo" width="50" height="50">](https://plum-caraway-dfe.notion.site/Software-Engineering-Management-185023bfc9f280a6b2c2e390edcd84a1)
 - Project Tracker for software engineering course about the development life cycle: [Software Engineering Management](https://plum-caraway-dfe.notion.site/Software-Engineering-Management-185023bfc9f280a6b2c2e390edcd84a1)
