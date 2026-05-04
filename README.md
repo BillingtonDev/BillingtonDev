@@ -8,19 +8,12 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/micah-billington/) OR [Personal Website](https://www.micahbillington.com/)
 - ⚡ Fun facts: I love coffee, am a novice snowboarder, and am a complete history nerd.
 - 🤔 I’m looking for help with book recommendations, project ideas, and any feedback whatsoever!
-- 👯 I’m looking to collaborate on ML, Data Analytics, and Web Development 
-<div>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Python-logo.png" alt="Python Logo" width="50" height="50">
-<img style="float: right;" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Rlogo.png" alt="RStudio Logo" width="50" height="50">
-<img style="float: right;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="PowerBi Logo" width="50" height="50">
-<img style="float: right;" src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" alt="Java Logo" width="50" height="60">
-<img style="float: right;" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="50" height="50">
-<img style="float: right;" src="https://www.svgrepo.com/show/373848/mysql.svg" alt="MySQL" width="50" height="50">
-<img style="float: right;" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Logo_PostgreSQL.png" alt="PostgreSQL" width="50" height="50">
-<img style="float: right;" src="https://upload.wikimedia.org/wikipedia/commons/d/d8/C_Language_Logo.svg" alt="C" width="50" height="50">
-<img style="float: right;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s" alt="HTML" width="50" height="50">
-<img style="float: right;" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/snowflake-color.png" alt="Snowflake" width="50" height="50">
-</div>
+- 👯 I’m looking to collaborate on ML, Data Analytics, and Web Development
+
+[![My Skills](https://skillicons.dev/icons?i=python,java,css,mysql,postgres,c,html)](https://skillicons.dev)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="47">
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/snowflake-color.png" width="47">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="47">
 
 ### Other Tools
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion Logo" width="50" height="50">](https://plum-caraway-dfe.notion.site/Software-Engineering-Management-185023bfc9f280a6b2c2e390edcd84a1)
