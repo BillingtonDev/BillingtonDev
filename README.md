@@ -5,10 +5,10 @@
 -->
 - 🔭 I’m currently working on a personal website, agentic AI applications, and a couple of other things which will be coming down the line.
 - 🌱 I’m currently exploring KDB, Docker, Databricks, Hugging Face, and everything Big Data.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/micah-billington/) OR [Personal Website](https://www.micahbillington.com/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/micah-billington/)
 - ⚡ Fun facts: I love coffee, am a novice snowboarder, and am a complete history nerd.
 - 🤔 I’m looking for help with book recommendations, project ideas, and any feedback whatsoever!
-- 👯 I’m looking to collaborate on ML, Data Analytics, and Web Development
+- 👯 I’m looking to collaborate on ML, NLP, and eTrading
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,css,mysql,postgres,c,html)](https://skillicons.dev)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="47">
